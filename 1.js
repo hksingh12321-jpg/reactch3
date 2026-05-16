@@ -75,5 +75,8 @@ krte hai, unhi ko dependencies khaa jaata hai.
 
 netlify=> to deploy the project.ispe hmm apne project ko host kr skte hai.
 
+abb iss tarah se code likha lengthy hai, isliye hmm JSX kaa use krenge.
+JSX=> javascript XML => iski madad se hmm HTML jaisa code JS ke andr likh skte hai.
+
 
 */
